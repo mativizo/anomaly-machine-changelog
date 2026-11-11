@@ -25,6 +25,15 @@
 - Game settings (Graphics)
 - Credits screen and trademarks
 - Exit game
+- Shaders (walls, ceilings, floors)
+- Modular map creation introduced
+- Fusebox - fuse - phase - electricity wired
+- Light switches introduced
+- Tables introduced
+- Bin introduced
+- One-slot eq introduced
+- Interaction system - pickup, interact
+- Fixed held item problems
 
 ### 0.1.0-alpha
 *State: Done*
@@ -35,3 +44,5 @@
 - Electricity System 1.0
 - Debug overlay - Electricity Controller)
 - Debug overlay - performance metrics
+- Fuses introduced
+- Fusebox introduced
