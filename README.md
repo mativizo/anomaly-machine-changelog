@@ -1,5 +1,18 @@
 # anomaly-machine-changelog
 
+## Dev progress:
+![Current Version](https://img.shields.io/badge/Current_version-0.1.2_alpha-blue)
+![Progress](https://img.shields.io/badge/Progress-12.2%25-orange)
+![Release Date](https://img.shields.io/badge/Release-2027-black)
+### Sections progress:
+![Gameplay](https://img.shields.io/badge/Gameplay-19%25-orange)
+![Story](https://img.shields.io/badge/Story-13%25-orange)
+![Graphics and Models](https://img.shields.io/badge/Graphics_and_models-22%25-orange)
+![Music and Audio](https://img.shields.io/badge/Music_and_audio-2%25-red)
+![Tests](https://img.shields.io/badge/Tests-5%25-red)
+
+
+
 [Trello Progress Board](https://trello.com/b/5F7r2ZHp/anomaly-machine-blind-fidelity)
 
 ## Changelog
