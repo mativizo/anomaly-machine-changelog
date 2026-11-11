@@ -3,12 +3,13 @@
 [Trello Progress Board](https://trello.com/b/5F7r2ZHp/anomaly-machine-blind-fidelity)
 
 ## Changelog
-- [0.1.2-alpha](#012-alpha)
+- [Upcoming](#upcoming)
 - [0.1.1-alpha](#011-alpha)
 - [0.1.0-alpha](#010-alpha)
 
-### 0.1.2-alpha
+### Upcoming
 *State: Work in progress*
+*Started: 11/11/26*
 - Door interactions (open/close)
 - Door interactions tweaks (door never opens to the player)
 - Door states (locked / opened / closed)
@@ -16,6 +17,7 @@
 
 ### 0.1.1-alpha
 *State: Done*
+*Finished: 11/11/26*
 - Basement map
 - Hallway map
 - Office map
