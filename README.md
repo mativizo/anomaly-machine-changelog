@@ -10,32 +10,42 @@
 ### Upcoming
 *State: Work in progress*
 *Started: 11/11/26*
-- Door interactions (open/close)
-- Door interactions tweaks (door never opens to the player)
-- Door states (locked / opened / closed)
-- Optimization (130+ FPS on test machine)
+- Door introduced:
+  - Door interactions (open/close)
+  - Door interactions tweaks (door never opens to the player)
+  - Door states (locked / opened / closed)
+  - Optimization (130+ FPS on test machine)
 
 ### 0.1.1-alpha
 *State: Done*
 *Finished: 11/11/26*
-- Basement map
-- Hallway map
-- Office map
-- Lights and shadows
-- Stairs
-- Main menu
-- Game settings (Graphics)
-- Credits screen and trademarks
-- Exit game
-- Shaders (walls, ceilings, floors)
+- Map:
+  - Hallway
+  - Basement
+  - Office
+  - Stairs
+- Lights and shadows introduction
+- Menu:
+  - Main menu
+  - Game settings (Graphics)
+  - Credits screen and trademarks
+  - Exit game
+- Shaders introduced:
+  - Walls
+  - Ceilings
+  - Floors
 - Modular map creation introduced
 - Fusebox - fuse - phase - electricity wired
-- Light switches introduced
-- Tables introduced
-- Bin introduced
-- One-slot eq introduced
-- Interaction system - pickup, interact
-- Fixed held item problems
+- Game elements:
+  - Light switches
+  - Tables
+  - Bin
+  - Fuses
+  - Fusebox
+- Mechanics:
+  - One-slot eq introduced
+  - Interaction system - pickup, interact
+  - Fixed held item problems
 
 ### 0.1.0-alpha
 *State: Done*
