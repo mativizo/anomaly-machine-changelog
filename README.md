@@ -3,8 +3,9 @@
 [Trello Progress Board](https://trello.com/b/5F7r2ZHp/anomaly-machine-blind-fidelity)
 
 ## Changelog
-- [0.1.2-alpha](#0.1.2-alpha-(WIP))
-- [0.1.1-alpha
+- [0.1.2-alpha](#012-alpha)
+- [0.1.1-alpha](#011-alpha)
+- [0.1.0-alpha](#010-alpha)
 
 ### 0.1.2-alpha
 *State: Work in progress*
