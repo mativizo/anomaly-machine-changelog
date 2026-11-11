@@ -30,8 +30,7 @@
   - Optimization (130+ FPS on test machine)
 
 ### 0.1.1-alpha
-*State: Done*
-*Finished: 11/11/26*
+*State: Done* | *Date: Nov 11, 2026*
 - Map:
   - Hallway
   - Basement
@@ -59,9 +58,11 @@
   - One-slot eq introduced
   - Interaction system - pickup, interact
   - Fixed held item problems
+  - Discord Rich Presence introduced
+  - Steamworks integration introduced
 
 ### 0.1.0-alpha
-*State: Done*
+*State: Done* | *Date: -*
 - Game setup
 - Player movement
 - Test level
