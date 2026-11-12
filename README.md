@@ -28,6 +28,8 @@
   - Door interactions tweaks (door never opens to the player)
   - Door states (locked / opened / closed)
   - Optimization (130+ FPS on test machine)
+- Map:
+  - Map editor [dev only]
 
 ### 0.1.1-alpha
 *State: Done* | *Date: Nov 11, 2026*
