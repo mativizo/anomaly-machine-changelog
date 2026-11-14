@@ -39,10 +39,14 @@
 - SFX:
   - Door opening / closing / locked
   - Light switch: on / off
+  - Player: Steps
+  - Ambient Room Tone
 - Optimization:
   - Float point optimization (MapEditor only)
 - Audio:
   - SFX bus effects
+  - AMbient bus effects
+- Lights model - bulb emission material reflects the state
 
 > SOON.
 
