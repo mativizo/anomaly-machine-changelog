@@ -71,6 +71,12 @@
   - Fixed held item problems
   - Discord Rich Presence introduced
   - Steamworks integration introduced
+- Optimization:
+  - Float point optimization (MapEditor only)
+
+> SOON.
+
+
 
 ### 0.1.0-alpha
 *State: Done* | *Date: -*
