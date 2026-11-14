@@ -73,6 +73,8 @@
   - Steamworks integration introduced
 - Optimization:
   - Float point optimization (MapEditor only)
+- Audio:
+  - SFX bus effects
 
 > SOON.
 
