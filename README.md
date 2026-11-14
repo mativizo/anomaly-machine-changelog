@@ -39,7 +39,17 @@
 - SFX:
   - Door opening / closing / locked
   - Light switch: on / off
+- Optimization:
+  - Float point optimization (MapEditor only)
+- Audio:
+  - SFX bus effects
 
+> SOON.
+
+
+
+
+## BACKLOG:
 ### 0.1.1-alpha
 *State: Done* | *Date: Nov 11, 2026*
 - Map:
@@ -71,14 +81,6 @@
   - Fixed held item problems
   - Discord Rich Presence introduced
   - Steamworks integration introduced
-- Optimization:
-  - Float point optimization (MapEditor only)
-- Audio:
-  - SFX bus effects
-
-> SOON.
-
-
 
 ### 0.1.0-alpha
 *State: Done* | *Date: -*
