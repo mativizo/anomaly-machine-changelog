@@ -28,8 +28,17 @@
   - Door interactions tweaks (door never opens to the player)
   - Door states (locked / opened / closed)
   - Optimization (130+ FPS on test machine)
-- Map:
-  - Map editor [dev only]
+- Light switch system rewritten to Events with start sync
+- MapEditor:
+  - Teleporting
+  - Moving elements
+  - Cloning elements
+  - Removing elements
+  - Changing element's properties
+  - Connecting logic
+- SFX:
+  - Door opening / closing / locked
+  - Light switch: on / off
 
 ### 0.1.1-alpha
 *State: Done* | *Date: Nov 11, 2026*
