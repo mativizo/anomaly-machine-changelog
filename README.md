@@ -50,6 +50,8 @@
 - Fixed door state at start
 - Fixed ambient sound in house (not attached).
 - Light state sync at start.
+- Ambient illumination reduced.
+- Separated WE for editor and map.
 
 > SOON.
 
