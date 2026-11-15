@@ -45,8 +45,11 @@
   - Float point optimization (MapEditor only)
 - Audio:
   - SFX bus effects
-  - AMbient bus effects
+  - Ambient bus effects
 - Lights model - bulb emission material reflects the state
+- Fixed door state at start
+- Fixed ambient sound in house (not attached).
+- Light state sync at start.
 
 > SOON.
 
