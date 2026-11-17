@@ -17,12 +17,29 @@
 
 ## Changelog
 - [Upcoming](#upcoming)
+- [0.1.2-alpha](#012-alpha)
 - [0.1.1-alpha](#011-alpha)
 - [0.1.0-alpha](#010-alpha)
 
 ### Upcoming
 *State: Work in progress*
-*Started: 11/11/26*
+*Started: 17/11/26*
+- Half wall above doors added.
+- All interactable elements renamed for map.
+- Rewrite the Shader for walls to work seamlessly with half walls.
+  - Replaced the wall height, with ceiling and floor world-y.
+  - Replaced the other shaders with universal wall shader.
+  - Optimization for wall shader.
+- Found the map editor bug that breaks the save; backups added.
+
+> SOON.
+
+
+
+
+## BACKLOG:
+### 0.1.2-alpha
+*State: Done* | *Date: Nov 17, 2026*
 - Door introduced:
   - Door interactions (open/close)
   - Door interactions tweaks (door never opens to the player)
@@ -53,12 +70,6 @@
 - Ambient illumination reduced.
 - Separated WE for editor and map.
 
-> SOON.
-
-
-
-
-## BACKLOG:
 ### 0.1.1-alpha
 *State: Done* | *Date: Nov 11, 2026*
 - Map:
