@@ -1,7 +1,7 @@
 # anomaly-machine-changelog
 
 ## Dev progress:
-![Current Version](https://img.shields.io/badge/Current_version-0.1.3_alpha-blue)
+![Current Version](https://img.shields.io/badge/Current_version-0.2.0_alpha-blue)
 ![Progress](https://img.shields.io/badge/Progress-13.6%25-orange)
 ![Release Date](https://img.shields.io/badge/Release-2027-black)
 ### Sections progress:
@@ -33,6 +33,8 @@
   - Optimization for wall shader.
 - Found the map editor bug that breaks the save; backups added.
 - Refined the dev targets, to speed up the work progress.
+- Reworked the ceiling light model.
+- 
 
 > SOON.
 
