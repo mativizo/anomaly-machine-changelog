@@ -34,7 +34,8 @@
 - Found the map editor bug that breaks the save; backups added.
 - Refined the dev targets, to speed up the work progress.
 - Reworked the ceiling light model.
-- 
+- Door model reworked.
+- SSAO tweaks, SDFGI tweaks.
 
 > SOON.
 
