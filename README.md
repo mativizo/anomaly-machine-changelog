@@ -36,6 +36,11 @@
 - Reworked the ceiling light model.
 - Door model reworked.
 - SSAO tweaks, SDFGI tweaks.
+- Flashlight modeled.
+- Flashlight animations.
+- Flashlight lights.
+- SFX and Room Tone Ambient tweaked.
+
 
 > SOON.
 
